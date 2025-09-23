@@ -1,7 +1,7 @@
 # Hello Everyone! 👋
 
-I'm **Alfredo Carrero**, 28 years old, and I live in **Almodóvar del Campo** (Ciudad Real), Spain.  
-Currently, I am a **Web Application Development** student 👨‍💻 at **IES Gregorio Prieto** (Valdepeñas).
+I'm **Alfredo Carrero**, 29 years old, and I live in **Almodóvar del Campo** (Ciudad Real), Spain.  
+Currently, I am a **Web Application Development** student 👨‍💻 at **CIFP Virgen de Gracia** (Puertollano).
 
 ## 🤓 About Me
 
