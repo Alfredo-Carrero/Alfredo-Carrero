@@ -62,3 +62,9 @@ You can check out my personal projects on my [GitHub profile](https://github.com
     <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
   </a>
 </div>
+
+## 📊 My GitHub Stats
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D graph" />
+</div>
