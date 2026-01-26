@@ -12,11 +12,6 @@ I also consider myself a bit **restless**, enjoying **learning a variety of thin
 
 You can check out my personal projects on my [GitHub profile](https://github.com/Alfredo-Carrero).
 
-## 🌍 Languages
-
-- **🇪🇸 Spanish** (Native)
-- **🇬🇧 English** (Intermediate)
-
 ---
 
 ## 📬 Contact Me
