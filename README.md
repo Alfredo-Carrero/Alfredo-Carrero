@@ -8,10 +8,6 @@ Currently, I am a **Web Application Development** student 👨‍💻 at **CIFP 
 I am passionate about **technology 💻** and **sports ⚽**, always eager to learn more about development and programming.  
 I also consider myself a bit **restless**, enjoying **learning a variety of things on my own** 📚, like creating _web applications, music, and more_ 🔍.
 
-## 💻 Current Projects
-
-You can check out my personal projects on my [GitHub profile](https://github.com/Alfredo-Carrero).
-
 ---
 
 ## 📬 Contact Me
